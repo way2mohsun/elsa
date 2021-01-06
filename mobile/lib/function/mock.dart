@@ -1,0 +1,7 @@
+main() {
+
+}
+
+const value = {
+
+};

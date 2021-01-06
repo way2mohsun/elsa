@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Forget Pass Page</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- Bootstrap 4 -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <!-- JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="/js/reset-pass.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="container">
+            <div class="row mt-5 justify-content-center">
+                <div class="col-6 p-4">
+                    <form>
+                        <fieldset>
+                            <legend></legend>
+                            <div class="form-group">
+                                <label for="password">Enter new password</label>
+                                <input type="password" class="form-control" id="pass" placeholder="New Password"
+                                    required>
+                                <label for="re-pass">Re-enter new password</label>
+                                <input type="password" class="form-control" id="re-pass" placeholder="New Password"
+                                    required>
+                            </div>
+                            <button type="button" id="resetPassBtn" class="btn btn-primary">Reset Password</button>
+                            <br>
+                            <label id="response-message"></label>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
