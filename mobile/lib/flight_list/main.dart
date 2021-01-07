@@ -3,6 +3,8 @@ import 'custom_app_bar.dart';
 import 'custom_shape_clipper.dart';
 import 'package:intl/intl.dart';
 
+import 'flight_list.dart';
+
 final formatCurrency = NumberFormat.simpleCurrency();
 
 class HomeScreen extends StatelessWidget {
@@ -361,10 +363,20 @@ class _HomeScreenTopPartState extends State<HomeScreenTopPart> {
                           suffixIcon: Material(
                             elevation: 2,
                             borderRadius: BorderRadius.all(Radius.circular(30)),
-                            child: Icon(
-                              Icons.search,
-                              size: 30,
-                              color: Colors.black,
+                            child: InkWell(
+                              onTap: () {
+                                Navigator.push(
+                                  context,
+                                  MaterialPageRoute(
+                                    builder: (context) => FlightListingScreen(),
+                                  ),
+                                );
+                              },
+                              child: Icon(
+                                Icons.search,
+                                size: 30,
+                                color: Colors.black,
+                              ),
                             ),
                           ),
                         ),
