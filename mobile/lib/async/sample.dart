@@ -17,7 +17,7 @@ void task1() {
   print('Task 1 complete');
 }
 
-String task2()  {
+String task2() {
   Duration d = Duration(seconds: 3);
   //sleep(d); // Sync
 

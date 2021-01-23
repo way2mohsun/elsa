@@ -5,19 +5,18 @@
       "jest-expect-message"
     ]
   },
-  "name": "@practitioner/pp-authentication",
-  "version": "1.1.0-card-1669.1",
+  "name": "@elsa",
+  "version": "1.1.0",
   "private": true,
-  "author": "pp-portal",
-  "license": "pp-portal",
-  "repository": "https://gitlab.com/pp-portal-group/pp-authentification.git",
+  "author": "Mohsen Ghamgosar",
+  "license": "free",
+  "repository": "https://github.com/way2mohsun/elsa.git",
   "scripts": {
     "start": "nodemon --exec babel-node src/server",
     "start-pro": "node ./bin/www",
     "test": "jest --silent",
     "test-compact": "jest 2>&1 | grep 'FAIL'",
-    "commit": "git-cz",
-    "release": "semantic-release -d false --no-ci"
+    "commit": "git-cz"
   },
   "dependencies": {
     "debug": "~2.6.9",

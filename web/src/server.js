@@ -1,10 +1,12 @@
 require('dotenv').config();
-import express from "express";
-import initWebRoutes from "./route";
 import bodyParser from "body-parser";
 import cookieParser from "cookie-parser";
-import session from "express-session";
+import express from "express";
 import passport from "passport";
+import session from "express-session";
+var FileStore = require('session-file-store')(session);
+
+import initWebRoutes from "./route";
 
 let app = express();
 
@@ -12,12 +14,19 @@ app.use(cookieParser("secret"));
 
 //config session
 app.use(session({
-   secret: 'secret',
    resave: true,
-   saveUninitialized: false,
+   saveUninitialized: true,
+   secret: 'uwotm8',
    cookie: {
-      maxAge: 1000 * 60 * 60 * 24 // 86400000 1 day
-   }
+      maxAge: 1000 * 60 * 30,
+      originalMaxAge: 1000 * 60 * 30 * 3
+   },
+   store: new FileStore({
+      path: __dirname + '/sessions',
+      useAsync: true,
+      reapInterval: 3000,
+      maxAge: 1000 * 60 * 30 * 3
+   }),
 }));
 
 app.use(bodyParser.json());

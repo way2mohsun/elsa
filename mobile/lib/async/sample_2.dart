@@ -4,7 +4,7 @@ void main() {
   performTasks();
 }
 
-void performTasks() {
+void performTasks() async {
   task1();
   // point : call should inside of argument
   //task3(await task2());

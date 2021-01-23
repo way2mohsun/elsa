@@ -11,13 +11,14 @@ void task1() {
   print('Task 1 complete');
 }
 
-Future task2() {
+Future task2() async {
   Duration d = Duration(seconds: 3);
   //var result;
-  return Future.delayed(d, () {
+  var result = await Future.delayed(d, () {
     print('Task 2 complete');
+    return "TSK 2";
   });
-  //return result;
+  return result;
 }
 
 void task3(String task_2_data) {

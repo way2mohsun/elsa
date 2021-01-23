@@ -12,13 +12,15 @@ let router = express.Router();
 
 let initWebRoutes = (app) => {
     router.get("/", loginController.check_logged_in, homePageController.home_page);
-    router.post("/logout", loginController.post_log_out);
+    router.post("/", loginController.check_logged_in, homePageController.init_home_page);
+
 
     router.get("/register", registerController.register_page);
     router.post("/register-new-user", registerController.create_new_username);
 
     router.get("/login", loginController.check_logged_out, loginController.login_page);
     router.post("/login", loginController.handle_login);
+    router.post("/logout", loginController.post_log_out);
 
     router.get("/forget-pass", forgetPasswordController.get_forget_pass_page);
     router.post("/forget-pass", forgetPasswordController.send_forget_password_link);
