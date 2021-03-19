@@ -10,8 +10,8 @@ import 'meal_detail_screen.dart';
 class ProfileScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final height = MediaQuery.of(context).size.height;
-    final width = MediaQuery.of(context).size.width;
+    final height = MediaQuery.maybeOf(context).size.height;
+    final width = MediaQuery.maybeOf(context).size.width;
     final today = DateTime.now();
     return Scaffold(
       backgroundColor: const Color(0xFFe9e9e9),

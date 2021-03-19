@@ -1,14 +1,14 @@
 import connection from "../config/database-connect";
 
-let topic = (email) => {
+let topic = (user_id) => {
     return new Promise((resolve, reject) => {
         try {
-            connection.query("SELECT * from topic where ", null, function (error, rows) {
-                if (error) reject(error);
-                if (!rows) reject("not fount");
-                let user = rows[0];
-                resolve(user);
-            });
+            connection.query("SELECT * from topic where ?",
+                { user: user_id },
+                function (error, rows) {
+                    if (error) reject(error);
+                    resolve(rows);
+                });
         } catch (e) {
             console.log(e)
             reject(e);

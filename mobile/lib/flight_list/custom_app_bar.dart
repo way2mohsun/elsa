@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-class CustomeAppBar extends StatelessWidget {
+class CustomAppBar extends StatelessWidget {
   final List<BottomNavigationBarItem> bottomBarItem = [];
 
-  CustomeAppBar() {
+  CustomAppBar() {
     bottomBarItem.add(
       BottomNavigationBarItem(
         activeIcon: Icon(

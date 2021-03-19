@@ -4,13 +4,13 @@ import cookieParser from "cookie-parser";
 import express from "express";
 import passport from "passport";
 import session from "express-session";
-var FileStore = require('session-file-store')(session);
-
 import initWebRoutes from "./route";
-
+import redis from "redis";
+var client = redis.createClient();
+var redisStore = require('connect-redis')(session);
 let app = express();
 
-app.use(cookieParser("secret"));
+app.use(cookieParser("uwotm8"));
 
 //config session
 app.use(session({
@@ -18,14 +18,13 @@ app.use(session({
    saveUninitialized: true,
    secret: 'uwotm8',
    cookie: {
-      maxAge: 1000 * 60 * 30,
+      maxAge: 1000 * 60 * 30 * 60,
       originalMaxAge: 1000 * 60 * 30 * 3
    },
-   store: new FileStore({
-      path: __dirname + '/sessions',
-      useAsync: true,
-      reapInterval: 3000,
-      maxAge: 1000 * 60 * 30 * 3
+   store: new redisStore({
+      host: process.env.R_IP,
+      port: process.env.R_PORT,
+      client: client, ttl: 260,
    }),
 }));
 
@@ -34,7 +33,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 // config view engine
 app.use(express.static(__dirname + '/public'));
-app.use("/bootstrap", express.static(__dirname + '/public/bootstrap-4.3.1'));
+app.use("/bootstrap", express.static(__dirname + '/public/bootstrap-5.0.0'));
 app.set("view engine", "ejs");
 app.set("views", "./src/views");
 

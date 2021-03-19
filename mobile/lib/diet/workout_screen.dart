@@ -70,13 +70,13 @@ class WorkoutScreen extends StatelessWidget {
                     Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        Icon(
+                        const Icon(
                           Icons.wifi_protected_setup,
                           color: Colors.white30,
                         ),
                         Text(
                           'Easy',
-                          style: TextStyle(
+                          style: const TextStyle(
                             color: Colors.white70,
                           ),
                         ),

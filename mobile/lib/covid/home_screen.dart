@@ -15,7 +15,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
-    final screenHeight = MediaQuery.of(context).size.height;
+    final screenHeight = MediaQuery.maybeOf(context).size.height;
     return Scaffold(
       appBar: CustomAppBar(),
       body: CustomScrollView(

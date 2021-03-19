@@ -109,7 +109,7 @@ class _HomePageState extends State<HomePage>
 
   @override
   Widget build(BuildContext context) {
-    screenHeight = MediaQuery.of(context).size.height;
+    screenHeight = MediaQuery.maybeOf(context).size.height;
     return AnimatedBuilder(
       animation: _controller,
       builder: (context, widget) {

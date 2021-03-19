@@ -27,25 +27,25 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^0.1.3
-  audioplayers: ^0.15.1
-  font_awesome_flutter: ^8.8.1
-  geolocator: ^5.3.2+2
+  cupertino_icons: ^1.0.0
+  audioplayers: ^0.17.3
+  font_awesome_flutter: ^8.11.0
+  geolocator: ^6.2.0
   http: ^0.12.2
   flutter_spinkit: ^4.1.2+1
-  animated_text_kit: ^2.2.0
-  provider: ^4.3.2
-  path_provider: ^1.6.14
-  hive: ^1.4.4
+  animated_text_kit: ^3.1.0
+  provider: ^4.3.3
+  path_provider: ^1.6.27
+  hive: ^1.4.4+1
   hive_flutter: ^0.3.1
-  flutter_bloc: ^6.0.5
-  curved_navigation_bar: ^0.2.11
+  flutter_bloc: ^6.1.2
+  curved_navigation_bar: ^0.3.7
   charts_flutter: ^0.9.0
   dio: ^3.0.10
   intl: ^0.16.1 # date time formatting
   animations: ^1.1.2
   bubble_tab_indicator: ^0.1.4
-  fl_chart: ^0.11.1
+  fl_chart: ^0.12.2
   flutter_sms: ^2.1.1
 
 dev_dependencies:

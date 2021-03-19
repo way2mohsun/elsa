@@ -35,7 +35,7 @@ class CovidBarChart extends StatelessWidget {
             ),
           ),
           Container(
-            width: MediaQuery.of(context).size.width * .8,
+            width: MediaQuery.maybeOf(context).size.width * .8,
             child: BarChart(
               BarChartData(
                 maxY: 25,
@@ -49,7 +49,7 @@ class CovidBarChart extends StatelessWidget {
                     rotateAngle: 35,
                     margin: 10,
                     showTitles: true,
-                    textStyle: Styles.chartLabelTextStyle,
+                    //getTextStyles: Styles.chartLabelTextStyle,
                     /*
                     getTitles: (double value) {
                       switch (value.toInt()) {
@@ -103,7 +103,7 @@ class CovidBarChart extends StatelessWidget {
                           barRods: [
                             BarChartRodData(
                               y: value,
-                              color: Colors.red,
+                              //color: Colors.red,
                             ),
                           ],
                         ),

@@ -13,9 +13,11 @@ let handle_login = (req, res, next) => {
             return res.status(401).json(info.message);
         }
         req.login(user, function (err) {
+            //console.log(user);
             if (err) {
                 return res.status(500).json(error);
             } else {
+                req.session.user_id = user.id;
                 return res.status(200).json(user);
             }
         });

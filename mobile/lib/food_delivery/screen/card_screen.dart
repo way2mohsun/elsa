@@ -183,7 +183,7 @@ class _CardScreenState extends State<CardScreen> {
       ),
       bottomSheet: Container(
         height: 100,
-        width: MediaQuery.of(context).size.width,
+        width: MediaQuery.maybeOf(context).size.width,
         decoration: BoxDecoration(
           color: Theme.of(context).primaryColor,
           boxShadow: [

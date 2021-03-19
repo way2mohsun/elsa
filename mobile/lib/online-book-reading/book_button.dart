@@ -49,7 +49,7 @@ class WelcomeScreen extends StatelessWidget {
               ),
             ),
             SizedBox(
-              width: MediaQuery.of(context).size.width * .6,
+              width: MediaQuery.maybeOf(context).size.width * .6,
               child: RoundedButton(
                 fontSize: 16,
                 onTab: () {

@@ -8,7 +8,7 @@ import 'constraints.dart';
 class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    var size = MediaQuery.of(context).size;
+    var size = MediaQuery.maybeOf(context).size;
     return Scaffold(
       body: SingleChildScrollView(
         child: Column(

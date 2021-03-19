@@ -11,7 +11,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      bottomNavigationBar: CustomeAppBar(),
+      bottomNavigationBar: CustomAppBar(),
       // bottomNavigationBar: ClipRRect(
       //   borderRadius: BorderRadius.vertical(top: Radius.circular(40)),
       //   child: BottomNavigationBar(
@@ -33,7 +33,7 @@ class HomeScreen extends StatelessWidget {
         child: Column(
           children: [
             HomeScreenTopPart(),
-            HomeScreenButtomPart(),
+            HomeScreenButtonPart(),
           ],
         ),
       ),
@@ -41,7 +41,7 @@ class HomeScreen extends StatelessWidget {
   }
 }
 
-class HomeScreenButtomPart extends StatelessWidget {
+class HomeScreenButtonPart extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -232,7 +232,7 @@ class HomeScreenTopPart extends StatefulWidget {
 
 Color firstColor = Color(0xfff47d15);
 Color secondColor = Color(0xffff772c);
-List<String> locations = ['Tabriz', 'Tehran'];
+List<String> locations = ['Tabriz', 'Baku'];
 const TextStyle dropDownLabelStyle = TextStyle(
   color: Colors.white,
   fontSize: 16,

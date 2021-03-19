@@ -92,7 +92,7 @@ class _StacksState extends State<Stacks> {
         alignment: AlignmentDirectional.topEnd,
         child: Stack(
           alignment: AlignmentDirectional.centerEnd,
-          children: _page(MediaQuery.of(context).size),
+          children: _page(MediaQuery.maybeOf(context).size),
         ),
       ),
     );

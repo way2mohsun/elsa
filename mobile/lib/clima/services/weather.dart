@@ -5,13 +5,13 @@ const api_key = '3e980acd27dd404f86a2fe540c430792';
 class WeatherModel {
 
   Future<dynamic> getLocation() async {
-    Position position = await Geolocator()
-        .getCurrentPosition(desiredAccuracy: LocationAccuracy.lowest);
-    Network_Helper net =  Network_Helper(
-        url://units=imperial or units=metric
-        'https://api.openweathermap.org/data/2.5/weather?lat=${position.latitude}&lon=${position.longitude}&appid=$api_key');
-
-    return await net.get_data();
+    // Position position = await Geolocator().getCurrentPosition(desiredAccuracy: LocationAccuracy.lowest);
+    // Network_Helper net =  Network_Helper(
+    //     url://units=imperial or units=metric
+    //     'https://api.openweathermap.org/data/2.5/weather?lat=${position.latitude}&lon=${position.longitude}&appid=$api_key');
+    //
+    // return await net.get_data();
+    return null;
   }
 
 

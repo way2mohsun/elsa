@@ -27,7 +27,7 @@ class _RestaurentScreeenState extends State<RestaurentScreeen> {
                 tag: widget.restaurant.imageUrl,
                 child: Image(
                   height: 250,
-                  width: MediaQuery.of(context).size.width,
+                  width: MediaQuery.maybeOf(context).size.width,
                   image: AssetImage(widget.restaurant.imageUrl),
                   fit: BoxFit.cover,
                 ),

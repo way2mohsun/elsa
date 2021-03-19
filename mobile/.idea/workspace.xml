@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b3700e6-ed24-4d24-85bf-8f89bd41ba32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/17b2e513fb461fca749ceae503284082/.filecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/17b2e513fb461fca749ceae503284082/App.framework/App" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/17b2e513fb461fca749ceae503284082/app.dill" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/17b2e513fb461fca749ceae503284082/debug_ios_bundle_flutter_assets.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/17b2e513fb461fca749ceae503284082/debug_universal_framework.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/17b2e513fb461fca749ceae503284082/flutter_assets.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/17b2e513fb461fca749ceae503284082/gen_localizations.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/17b2e513fb461fca749ceae503284082/kernel_snapshot.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/17b2e513fb461fca749ceae503284082/kernel_snapshot.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/17b2e513fb461fca749ceae503284082/outputs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7e941b68bf7b78016d4b00022b300e78/.filecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7e941b68bf7b78016d4b00022b300e78/App.framework/App" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7e941b68bf7b78016d4b00022b300e78/aot_assembly_release.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7e941b68bf7b78016d4b00022b300e78/app.dill" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7e941b68bf7b78016d4b00022b300e78/arm64/App.framework/App" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7e941b68bf7b78016d4b00022b300e78/arm64/snapshot_assembly.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7e941b68bf7b78016d4b00022b300e78/arm64/snapshot_assembly.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7e941b68bf7b78016d4b00022b300e78/armv7/App.framework/App" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7e941b68bf7b78016d4b00022b300e78/armv7/snapshot_assembly.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7e941b68bf7b78016d4b00022b300e78/armv7/snapshot_assembly.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7e941b68bf7b78016d4b00022b300e78/flutter_assets.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7e941b68bf7b78016d4b00022b300e78/gen_localizations.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7e941b68bf7b78016d4b00022b300e78/kernel_snapshot.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7e941b68bf7b78016d4b00022b300e78/kernel_snapshot.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7e941b68bf7b78016d4b00022b300e78/outputs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/7e941b68bf7b78016d4b00022b300e78/release_ios_bundle_flutter_assets.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/version" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/28587ac5b1459f10ab991d5e8e28a1d7-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/28587ac5b1459f10ab991d5e8e28a1d7-manifest.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/2ca255464ed62329927246224bb66c90-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/2ca255464ed62329927246224bb66c90-manifest.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/51c7d614a75367abdb2dedac5fb1d907-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/51c7d614a75367abdb2dedac5fb1d907-manifest.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/5ea45056c43dec7e6885e35ac572966d-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/5ea45056c43dec7e6885e35ac572966d-manifest.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/6308766a8474aa68e4d1a1838e2711a6-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/6308766a8474aa68e4d1a1838e2711a6-manifest.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/BuildDescriptionCacheIndex-7b595fe24bbacb69ad934fc994f89fa5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/BuildDescriptionCacheIndex-d108c4d493e44a94cc629490e21e7ca1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/build.db" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/XCBuildData/build.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/dc5b2ade92a21cdd7a47489200dce621-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/dc5b2ade92a21cdd7a47489200dce621-manifest.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/f2573a845ca5e5b7a45bc264b88bc750-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/f2573a845ca5e5b7a45bc264b88bc750-manifest.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/fd7c017331f510077fc8b205c18a982c-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/XCBuildData/fd7c017331f510077fc8b205c18a982c-manifest.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/budget/category_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/budget/category_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/budget/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/budget/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/budget/radial_painter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/budget/radial_painter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/clima/services/weather.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/clima/services/weather.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/covid/covid_bar_chart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/covid/covid_bar_chart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/covid/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/covid/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/covid/stats_grid.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/covid/stats_grid.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dark_light/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dark_light/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dark_light/z_animated_toggle.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dark_light/z_animated_toggle.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dark_light_2/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dark_light_2/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/diet/my_app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/diet/my_app.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/diet/profile_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/diet/profile_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/diet/workout_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/diet/workout_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/flight_list/custom_app_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flight_list/custom_app_bar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/flight_list/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flight_list/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/food_delivery/screen/card_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/food_delivery/screen/card_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/food_delivery/screen/restaurent_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/food_delivery/screen/restaurent_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/general/stack.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/general/stack.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/online-book-reading/book_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/online-book-reading/book_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/online-book-reading/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/online-book-reading/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/online-book-reading/reading_list_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/online-book-reading/reading_list_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/social_app/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/social_app/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/.env" beforeDir="false" afterPath="$PROJECT_DIR$/../web/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/fonts/VarelaRound-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/bootstrap-4.3.1/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/IRANSansWeb(FaNum)_Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/css/font-awesome.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/font-awesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/js/home_page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/public/js/jquery-3.5.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web/src/route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/route/home-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web/src/route/home-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/route/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web/src/route/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web/src/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/services/topic.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web/src/services/topic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/homepage.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/login.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../web/src/views/login.ejs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1o8xWnbfbHDQP5UrkeRb2VflobL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b3700e6-ed24-4d24-85bf-8f89bd41ba32" name="Default Changelist" comment="" />
+      <created>1612682052681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612682052681</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612874544951">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="184" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1612874544951" />
+    <state width="1396" height="244" key="GridCell.Tab.0.bottom" timestamp="1612901802438">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1612901802438" />
+    <state width="1396" height="244" key="GridCell.Tab.0.center" timestamp="1612901802436">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1612901802436" />
+    <state width="1396" height="244" key="GridCell.Tab.0.left" timestamp="1612901802434">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1612901802434" />
+    <state width="1396" height="244" key="GridCell.Tab.0.right" timestamp="1612901802437">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1612901802437" />
+    <state x="308" y="209" key="IDE.errors.dialog" timestamp="1612874253837">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="308" y="209" key="IDE.errors.dialog/0.25.1440.875@0.25.1440.875" timestamp="1612874253837" />
+    <state x="251" y="98" key="SettingsEditor" timestamp="1612875358005">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="251" y="98" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1612875358005" />
+    <state x="406" y="217" width="628" height="490" key="find.popup" timestamp="1612885146455">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="406" y="217" width="628" height="490" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1612885146455" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1612886188595">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.25.1440.875@0.25.1440.875" timestamp="1612886188595" />
+  </component>
+</project>

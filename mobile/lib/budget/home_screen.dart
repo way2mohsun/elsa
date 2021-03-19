@@ -43,7 +43,7 @@ class _HomeScreenState extends State<HomeScreen> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              //mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 Text(
                   category.name,
@@ -52,6 +52,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     fontWeight: FontWeight.w600,
                   ),
                 ),
+                Spacer(),
                 Text(
                   '\$${(category.maxAmount - totalAmountSpend).toStringAsFixed(2)} / \$${category.maxAmount.toStringAsFixed(2)}',
                   style: TextStyle(
@@ -98,8 +99,6 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -108,8 +107,8 @@ class _HomeScreenState extends State<HomeScreen> {
           SliverAppBar(
             forceElevated: true,
             floating: true,
-            //pinned: true,
-            expandedHeight: 100,
+            //pinned: false,
+            expandedHeight: MediaQuery.maybeOf(context).size.height * .1,
             leading: IconButton(
               icon: Icon(Icons.settings),
               iconSize: 30,

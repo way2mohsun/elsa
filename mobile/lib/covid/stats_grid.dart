@@ -4,7 +4,7 @@ class StatsGrid extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: MediaQuery.of(context).size.height * .25,
+      height: MediaQuery.maybeOf(context).size.height * .25,
       //color: Colors.yellow,
       child: Column(
         children: [

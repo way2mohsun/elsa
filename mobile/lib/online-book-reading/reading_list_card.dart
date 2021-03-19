@@ -25,12 +25,12 @@ class ReadingListCard extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       margin: const EdgeInsets.only(left: 24, bottom: 40),
-      height: MediaQuery.of(context).size.width * .6,
+      height: MediaQuery.maybeOf(context).size.width * .54,
       width: 202,
       child: Stack(
         children: [
           Container(
-            //height: 260,
+            //height: 200,
             decoration: BoxDecoration(
               color: Colors.white,
               borderRadius: BorderRadius.circular(20),
@@ -63,7 +63,7 @@ class ReadingListCard extends StatelessWidget {
           Positioned(
             top: 160,
             child: Container(
-              height: 70,
+              height: 71,
               width: 202,
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,

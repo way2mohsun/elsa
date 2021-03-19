@@ -34,7 +34,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
             borderRadius: BorderRadius.circular(10),
           ),
           child: Padding(
-            padding:  EdgeInsets.all(30.0),
+            padding: EdgeInsets.all(30.0),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [

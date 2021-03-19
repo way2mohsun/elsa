@@ -17,7 +17,7 @@ class ZAnimatedToggle extends StatefulWidget {
 class _ZAnimatedToggleState extends State<ZAnimatedToggle> {
   @override
   Widget build(BuildContext context) {
-    final width = MediaQuery.of(context).size.width;
+    final width = MediaQuery.maybeOf(context).size.width;
     final themeProvider = Provider.of<ThemeProvider>(context);
     return Container(
       width: width * .7,

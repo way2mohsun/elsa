@@ -5,6 +5,7 @@ import 'package:flutterapp/todoey/main.dart' as todoey;
 import 'package:flutterapp/todoey/modules/task_list.dart';
 import 'package:flutterapp/clima/main.dart' as clima;
 import 'package:flutterapp/quizzler/Quizzler.dart' as quizzler;
+import 'package:flutterapp/quizzler/Quizzler.dart' as quizzler;
 import 'package:hive/hive.dart';
 import 'package:provider/provider.dart';
 import 'package:flutterapp/social_media/main.dart' as social_media;
